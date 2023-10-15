@@ -1,3 +1,9 @@
 ## Rajeshwari Bhaskaran
 
-As a seasoned IT engineer with extensive experience in IT operations and DevOps, and recent training in Software Engineering, I bring a unique and holistic perspective to the software industry. In addition, I am an entry-level Python developer with a strong foundation in Python programming concepts, building applications, scripting, and automation. My expertise includes working with a wide range of tech tools and technologies, including Git, NLP, Django, SQL, and many more. I am passionate about coding and always eager to learn, staying up-to-date with the latest trends and emerging technologies.  I am committed to sharing my in-depth knowledge and expertise, contributing to the ever-evolving world of technology.
+Hello, I'm Raji! 👋 I'm a technology enthusiast with a strong passion for Generative AI, Cloud well-architected frameworks, and serverless architecture. Here's a little about me:
+
+💻 I'm currently immersed in learning Python and mastering the AWS Cloud.
+🚀 I love challenging myself with AWS Cloud Quest, and my go-to resources are HackerRank and AWS SkillBuilder.
+👥 I'm always open to collaborating with other tech enthusiasts on exciting projects.
+📫 You can reach out to me on LinkedIn]
+Let's connect, share knowledge, and build amazing tech projects together!
