@@ -9,7 +9,7 @@ Hello, I'm **Raji**! 👋 I'm a technology enthusiast with a strong passion for 
 - 👥 I'm always open to collaborating with other tech enthusiasts on exciting projects.
 - 📫 You can reach out to me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/raja-rajeshwari-bhaskaran-69309ab3/)
 
-Let's connect, share knowledge, and build amazing tech projects together!
+
 
 ## My Skills
 
@@ -17,6 +17,6 @@ Let's connect, share knowledge, and build amazing tech projects together!
 - **Cloud Computing**: AWS, Azure
 - **Frameworks**: Django, Flask, AWS Amplify
 
-- Let's connect, share knowledge, and build amazing tech projects together!
 
+Let's connect, share knowledge, and build amazing tech projects together!
 
